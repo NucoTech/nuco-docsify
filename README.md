@@ -4,7 +4,7 @@ nuco基于docsify定制的文档模板仓库
 
 > 推荐您使用 [nbc](https://github.com/NucoTech/nuco-backend-cli) 作为commit规范化工具; 如果您在前端项目中使用本仓库模板, 建议您使用commitlint作为工程commit规范工具
 
-## Features
+## :sparkles: Features
 
 - 定制侧边栏
 - 定制导航栏
