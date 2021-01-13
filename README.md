@@ -15,6 +15,8 @@ nuco基于docsify定制的文档模板仓库
 - 支持分页
 - go语言语法高亮
 - 支持PWA
+- 支持夜间模式
+- 支持Footer信息
 
 ## Usage
 
