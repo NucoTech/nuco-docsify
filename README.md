@@ -25,7 +25,27 @@ nuco基于docsify定制的文档模板仓库
 - 修改其中的`README.md`和`guide.md`文件, 做好读者引导
 - 修改`<script>`的内容适当增删插件
 
+## 使用`nbc`
+
+> 我们很高兴的通知您, 自 `nbc v1.2.x` 版本开始, `nbc` 已经可以支持命令行生成文档与预览文档了!
+
+```shell
+# 在当前目录下, 生成docs目录并且根据模板初始化文档
+nbc docs
+```
+
+预览文档
+
+```shell
+# 预览当前目录的docs子目录的文档
+nbc serve
+```
+
+> 更多高级用法, 请参考 [nbc文档生成使用指南](https://github.com/NucoTech/nuco-backend-cli/blob/main/%E6%96%87%E6%A1%A3%E7%94%9F%E6%88%90%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+
 ## Preview
+
+> 如果您已使用`nbc`, 则可以跳过这一节
 
 ### 使用`docsify-cli`
 
