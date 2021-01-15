@@ -57,7 +57,7 @@ docsify serve docs
 
 > 如果本地有静态服务器启动的命令行工具的话, 可以进入`./docs`文件夹之后启动服务
 
-- 比如`nodejs`的`httpserver`
+- 比如`nodejs`的`http-server`
 
 ```shell
 cd docs
