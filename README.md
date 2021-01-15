@@ -41,7 +41,7 @@ nbc docs
 nbc serve
 ```
 
-> 更多高级用法, 请参考 [nbc文档生成使用指南](https://github.com/NucoTech/nuco-backend-cli/blob/main/%E6%96%87%E6%A1%A3%E7%94%9F%E6%88%90%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+> 更多高级用法, 请参考 [nbc文档](https://nucotech.github.io/nuco-backend-cli)
 
 ## Preview
 
